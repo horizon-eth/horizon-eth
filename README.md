@@ -1,8 +1,8 @@
 <p>
 	<samp>
 		Hello there. I'm Ufuk aka Horizon -> Blockchain Developer | Smart Contract Developer. <br>
-		I specalize in development, integration, audit of Smart Contracts. <br> 
-		I develop Uncollateralized Arbitrage Bots & Delta Neutral Strategy Yield Bots on DeFi. <br>
+		I specalize in development, integration and security auditing of Smart Contracts. <br> 
+		I develop Uncollateralized Arbitrage Bots & Delta Neutral Strategy Yield Bots in DeFi. <br>
     </samp>
 </p>
 
